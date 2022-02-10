@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Wellness</string>
+    <string name="home">Home</string>
+    <string name="wellness">Wellness</string>
+    <string name="photo_of_food">Photo of food</string>
+    <string name="clean_eating_title">Clean Eating</string>
+    <string name="clean_eating_subtitle">Clean eating will help you to get better sleep and more focus</string>
+    <string name="clean_eating_fast_salad">Fast Salad:</string>
+    <string name="clean_eating_fast_salad_description">Take two hard boiled eggs, two tomatoes, chop and mix, add tablespoon of balsamic vinegar, salt and pepper to taste. Enjoy!</string>
+    <string name="home_welcome">Welcome</string>
+    <string name="home_welcome_text">Thank you for getting this app! We hope you will enjoy the content and find something good.</string>
+    <string name="home_smoothie_of_the_day">Smoothie Of The Day:</string>
+    <string name="home_smoothie_recipe">Get yourself 300ml of water, banana, 100g kale, 1kg watermelon, 1 scotch bonnet and pinch of turmeric. Blend until smooth.</string>
+    <string name="welcome_photo">Welcome photo</string>
+    <string name="meditation_photo">Meditation photo</string>
+    <string name="wellness_meditation">Meditation</string>
+    <string name="yoga_photo">Yoga photo</string>
+    <string name="wellness_yoga">Yoga</string>
+    <string name="food_photo">Food photo</string>
+    <string name="wellness_clean_eating">Clean Eating</string>
+    <string name="activity_yoga">Yoga</string>
+    <string name="activity_yoga_subtitle">Yoga will help you to stretch your body and even become taller!</string>
+    <string name="activity_yoga_pose_title">Standing Forward Bend:</string>
+    <string name="activity_yoga_pose_description">Stand up. Keep your feet at shoulder width. Exhale and fold over your legs.\nBend your knees if you need to. Stay in this position for a few seconds.\nInhale and get back to initial position.</string>
+    <string name="activity_meditation">Meditation</string>
+    <string name="activity_meditation_subtitle">Meditation will help you to find inner peace and find answers to questions</string>
+    <string name="activity_meditation_two_minute_meditation">Two minute meditation:</string>
+    <string name="activity_meditation_description">Find a comfortable place. Set the timer for two minutes. Close your eyes.\nTake a deep breath and hold it for 5 seconds. Breathe out. Repeat until your timer sounds.</string>
+    <string name="take_a_moment">Take a moment</string>
+</resources>
