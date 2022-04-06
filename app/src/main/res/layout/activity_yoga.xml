@@ -82,6 +82,14 @@
                 android:text="@string/activity_yoga_pose_description"
                 android:textSize="16sp" />
 
+            <Button
+                android:id="@+id/inspiration"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="50dp"
+                android:text="@string/btn_tap_me" />
+
         </LinearLayout>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
