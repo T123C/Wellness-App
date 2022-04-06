@@ -27,4 +27,5 @@
     <string name="activity_meditation_two_minute_meditation">Two minute meditation:</string>
     <string name="activity_meditation_description">Find a comfortable place. Set the timer for two minutes. Close your eyes.\nTake a deep breath and hold it for 5 seconds. Breathe out. Repeat until your timer sounds.</string>
     <string name="take_a_moment">Take a moment</string>
+    <string name="btn_tap_me">Tap Me</string>
 </resources>
