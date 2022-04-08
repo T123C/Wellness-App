@@ -24,8 +24,10 @@
     <string name="activity_yoga_pose_description">Stand up. Keep your feet at shoulder width. Exhale and fold over your legs.\nBend your knees if you need to. Stay in this position for a few seconds.\nInhale and get back to initial position.</string>
     <string name="activity_meditation">Meditation</string>
     <string name="activity_meditation_subtitle">Meditation will help you to find inner peace and find answers to questions</string>
-    <string name="activity_meditation_two_minute_meditation">Two minute meditation:</string>
-    <string name="activity_meditation_description">Find a comfortable place. Set the timer for two minutes. Close your eyes.\nTake a deep breath and hold it for 5 seconds. Breathe out. Repeat until your timer sounds.</string>
+    <string name="activity_meditation_two_minute_meditation">One minute meditation:</string>
+    <string name="activity_meditation_description">Find a comfortable place. Relax your muscles.\nTake a deep breath and hold it for 7 seconds. Breathe out. Repeat until timer ends.</string>
     <string name="take_a_moment">Take a moment</string>
     <string name="btn_tap_me">Tap Me</string>
+    <string name="timer_background_photo">Timer background</string>
+    <string name="btn_jump_in">Jump in</string>
 </resources>

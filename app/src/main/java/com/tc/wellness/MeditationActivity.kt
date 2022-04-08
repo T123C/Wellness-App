@@ -1,7 +1,9 @@
 package com.tc.wellness
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 import com.tc.wellness.databinding.ActivityMeditationBinding
 
 class MeditationActivity : AppCompatActivity() {
@@ -16,5 +18,11 @@ class MeditationActivity : AppCompatActivity() {
         setContentView(binding.root)
         //Setting the custom title for action bar
         title = "Take A Moment To Meditate"
+        binding.btnTimerStart.setOnClickListener { launchTimerActivity() }
+    }
+
+    private fun launchTimerActivity() {
+        val intent = Intent(this, TimerActivity::class.java)
+        startActivity(intent)
     }
 }
