@@ -82,6 +82,14 @@
                 android:text="@string/activity_meditation_description"
                 android:textSize="16sp" />
 
+            <Button
+                android:id="@+id/btn_timer_start"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+                android:text="@string/btn_jump_in" />
+
         </LinearLayout>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
